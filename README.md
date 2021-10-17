@@ -5,6 +5,9 @@
 <h2>Sobre</h2>
 <p>FlexBlog project, developed during the practice of CSS FlexBox in the Origmid course.</p>
 
+## Link to project test
+ https://lnkd.in/d2D_MASW
+
 ## technologies used
 + HTML5
 + CSS3
