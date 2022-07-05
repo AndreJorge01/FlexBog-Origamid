@@ -1,4 +1,4 @@
-<h1>FlexBlog</h1>
+<h1>FlexBlog.</h1>
 
 ![AnimaçãoFlexBlog](https://user-images.githubusercontent.com/86026272/137028258-eb0ba7ab-881d-462b-9c45-5ed7cc36c4c3.gif)
 
