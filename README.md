@@ -8,7 +8,7 @@
 ## Link to project test.
  https://lnkd.in/d2D_MASW
 
-## technologies used
+## technologies used.
 + HTML5
 + CSS3
 + Visual Studio Code
