@@ -9,7 +9,7 @@
  https://lnkd.in/d2D_MASW
 
 ## technologies used.
-+ HTML5
++ HTML5.
 + CSS3
 + Visual Studio Code
 
