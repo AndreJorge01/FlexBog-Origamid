@@ -10,6 +10,6 @@
 
 ## technologies used.
 + HTML5.
-+ CSS3
++ CSS3.
 + Visual Studio Code
 
