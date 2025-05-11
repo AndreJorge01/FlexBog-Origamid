@@ -261,6 +261,11 @@ img {
   text-align: center;
 }
 
+.btn:hover {
+  background-color: #122ab2;
+  transition: 0.3s;
+}
+
 @media (max-width: 800px) {
   .preco {
     padding-left: 10px;
